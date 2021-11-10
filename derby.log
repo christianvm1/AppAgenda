@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sat Oct 30 15:02:50 CEST 2021:
- Iniciando instancia a816c00e-017c-d14b-ad71-000007ea2a20 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
+Wed Nov 10 11:52:05 CET 2021:
+ Iniciando instancia a816c00e-017d-0979-ebbf-00000866b020 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
 en el directorio de base de datos C:\Users\chris\Documents\NetBeansProjects\AppAgenda\BDAgenda con el cargador de clases sun.misc.Launcher$AppClassLoader@4dc63996
 Cargado desde file:/C:/Users/chris/Desktop/DI/Tools/db-derby-10.14.2.0-bin/lib/derby.jar
 java.vendor=Oracle Corporation
@@ -12,5 +12,5 @@ os.version=10.0
 derby.system.home=null
 Cargador de clases de base de datos iniciado - derby.database.classpath=''
 ----------------------------------------------------------------
-Sat Oct 30 15:03:13 CEST 2021:
-Cerrando la instancia a816c00e-017c-d14b-ad71-000007ea2a20 en el directorio de base de datos C:\Users\chris\Documents\NetBeansProjects\AppAgenda\BDAgenda con cargador de clases sun.misc.Launcher$AppClassLoader@4dc63996
+Wed Nov 10 11:52:23 CET 2021:
+Cerrando la instancia a816c00e-017d-0979-ebbf-00000866b020 en el directorio de base de datos C:\Users\chris\Documents\NetBeansProjects\AppAgenda\BDAgenda con cargador de clases sun.misc.Launcher$AppClassLoader@4dc63996

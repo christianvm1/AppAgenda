@@ -43,6 +43,7 @@ import javafx.scene.control.RadioButton;
 import javafx.scene.control.TablePosition;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
+import javafx.scene.control.ToggleGroup;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
@@ -103,6 +104,8 @@ public class PersonaDetalleViewController implements Initializable {
     public static final String CARPETA_FOTOS="src/appagenda/Fotos";
     @FXML
     private AnchorPane rootPersonaDetalleView;
+    @FXML
+    private ToggleGroup groupEstadoCivil;
 
     
 
